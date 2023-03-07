@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project path="device/xiaomi/whyred" name="9QS/android_device_xiaomi_whyred.git" remote="github" revision="topaz" />
+ <project path="vendor/xiaomi/whyred" name="Fork-AOSPA/android_vendor_xiaomi_whyred.git" remote="github" revision="topaz" />
+ <project path="kernel/xiaomi/whyred" name="9QS/android_kernel_xiaomi_whyred.git" remote="github" revision="topaz" />
+</manifest>
